@@ -23,6 +23,6 @@ The running environment is built with:
   numpy 1.13.3
   incubator-mxnet python/scala (commit 35fb9ea / May 10, 2018)
   mkl 2018.2.199
-  torch 0.4.0 (Apr 24, 2018)
-  torchtext (commit caf9256)
+  torch 0.3.1
+  torchtext 0.2.3
 ```
